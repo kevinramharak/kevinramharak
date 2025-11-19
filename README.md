@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### My name is Kevin
-I am usually a frontend developer (by :heart:), but just as capable when hobbying in the areas of:
+I am usually a frontend developer (by trade), but just as capable when hobbying in the areas of:
 - embedded
 - low-level stuff
 - backend
